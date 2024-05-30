@@ -43,8 +43,8 @@ body {
 .manten-1 {
   position: absolute;
   bottom: 0;
-  width: 120px;
-  right: 0;
+  width: 60%;
+  right: 20%;
 }
 
 .manten-2 {
@@ -129,7 +129,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  opacity: 0.9;
+  opacity: 0.7;
   z-index: -1;
 }
 
@@ -144,7 +144,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  opacity: 0.9;
+  opacity: 0.4;
   z-index: -1;
 }
 
@@ -167,14 +167,14 @@ body {
 }
 
 .page-2 {
-  background-color: #388070;
+  background-color: #70a893;
   padding: 20px;
   min-height: 100vh;
   position: relative;
 }
 
 .page-5 {
-  background-color: #388070;
+  background-color: #70a893;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -182,7 +182,7 @@ body {
 }
 
 .page-4 {
-  background-color: #388070;
+  background-color: #70a893;
   padding: 20px;
   position: relative;
 }
